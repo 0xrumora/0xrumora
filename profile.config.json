@@ -1,77 +1,69 @@
 {
   "$schema": "./profile.schema.json",
   "profile": {
-    "name": "Your Name",
-    "username": "yourusername",
-    "headline": "AI Engineer & Product Builder",
-    "affiliation": "Your University or Company",
-    "location": "City, Country",
-    "status": "Learning / Building / Shipping",
+    "name": "0xrumora",
+    "username": "0xrumora",
+    "headline": "Building in silence",
+    "affiliation": "Independent",
+    "location": "Asia",
+    "status": "Building",
     "about": [
-      "I build practical systems at the intersection of artificial intelligence, software engineering, and products people can trust.",
-      "My work combines technical exploration with a builder mindset: understand the problem, test the system, and share what actually works."
+      "Agents that execute. Systems that settle."
     ]
   },
   "research": {
     "primary": "AI Agents",
-    "direction": "Reliable autonomous systems",
-    "themes": "Tool use / evaluation / human control",
-    "narrative": "I am interested in systems that can observe state, use tools, evaluate outcomes, and take bounded actions with clear evidence and human oversight."
+    "direction": "Reliable execution systems",
+    "themes": "Tool use / automation / settlement",
+    "narrative": "Interested in systems that observe, act, and settle autonomously."
   },
   "focus": [
     {
-      "name": "AI Agents",
-      "description": "Autonomous workflows, tool use, evaluation, and reliable agent behavior."
+      "name": "Agents",
+      "description": "Autonomous execution systems"
     },
     {
-      "name": "Applied AI",
-      "description": "Turning model capabilities into useful and testable software systems."
+      "name": "Settlement",
+      "description": "Chain-native rails"
     },
     {
-      "name": "Developer Tools",
-      "description": "Better workflows for building, testing, and operating modern software."
+      "name": "Tooling",
+      "description": "Open source builders"
     }
   ],
   "projects": [
     {
-      "name": "Project One",
-      "url": "https://github.com/yourusername/project-one",
+      "name": "Technocore tclk/1",
+      "url": "https://github.com/flop-labs/tclk",
       "homepage": "",
-      "focus": "Primary project focus",
-      "summary": "A concise explanation of what the project does and why it matters.",
-      "heroLabel": "Primary build"
-    },
-    {
-      "name": "Project Two",
-      "url": "https://github.com/yourusername/project-two",
-      "homepage": "",
-      "focus": "Secondary project focus",
-      "summary": "A second project that supports the professional direction of this profile.",
-      "heroLabel": "Active system"
+      "focus": "Agent-to-agent deals",
+      "summary": "HTLC/PTLC protocol for autonomous agent settlements",
+      "heroLabel": "Protocol"
     }
   ],
-  "techStack": [
-    "TypeScript",
-    "Next.js",
-    "Python",
-    "PostgreSQL",
-    "Playwright"
-  ],
+  "techStack": ["JavaScript", "Python", "Solidity"],
   "links": [
     {
       "label": "GitHub",
-      "value": "yourusername",
-      "url": "https://github.com/yourusername",
+      "value": "0xrumora",
+      "url": "https://github.com/0xrumora",
       "logo": "github",
       "color": "0B1220"
+    },
+    {
+      "label": "X",
+      "value": "@Ox6ce4",
+      "url": "https://x.com/Ox6ce4",
+      "logo": "twitter",
+      "color": "1DA1F2"
     }
   ],
   "activity": {
-    "enabled": true,
+    "enabled": false,
     "limit": 6
   },
   "appearance": {
     "palette": "signal"
   },
-  "footer": "Building thoughtful systems and sharing what works."
+  "footer": "Let the activity speak."
 }
