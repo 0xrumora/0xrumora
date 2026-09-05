@@ -26,12 +26,6 @@ Agents that execute. Systems that settle.
 | **Settlement** | Chain-native rails |
 | **Tooling** | Open source builders |
 
-## Featured Work
-
-| Project | Focus | Why it matters |
-| --- | --- | --- |
-| [**—**](https://github.com/0xrumora) | — | — |
-
 ## Research Direction
 
 Interested in systems that observe, act, and settle autonomously.
