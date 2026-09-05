@@ -31,16 +31,7 @@
       "description": "Open source builders"
     }
   ],
-  "projects": [
-    {
-      "name": "tclk",
-      "url": "https://github.com/flop-labs/tclk",
-      "homepage": "",
-      "focus": "Protocol",
-      "summary": "Agent-to-agent settlement layer",
-      "heroLabel": "tclk"
-    }
-  ],
+  "projects": [],
   "techStack": ["JavaScript", "Python", "Solidity"],
   "links": [
     {
