@@ -31,16 +31,7 @@
       "description": "Open source builders"
     }
   ],
-  "projects": [
-    {
-      "name": "—",
-      "url": "https://github.com/0xrumora",
-      "homepage": "",
-      "focus": "—",
-      "summary": "—",
-      "heroLabel": "—"
-    }
-  ],
+  "projects": [],
   "techStack": ["JavaScript", "Python", "Solidity"],
   "links": [
     {
