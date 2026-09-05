@@ -31,16 +31,7 @@
       "description": "Open source builders"
     }
   ],
-  "projects": [
-    {
-      "name": "Technocore tclk/1",
-      "url": "https://github.com/flop-labs/tclk",
-      "homepage": "",
-      "focus": "Agent-to-agent deals",
-      "summary": "HTLC/PTLC protocol for autonomous agent settlements",
-      "heroLabel": "Protocol"
-    }
-  ],
+  "projects": [],
   "techStack": ["JavaScript", "Python", "Solidity"],
   "links": [
     {
